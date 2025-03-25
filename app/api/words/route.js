@@ -17,7 +17,6 @@ export async function GET(request) {
   const knownWords = await getKnownWords();
   const excludedWords = await getExcludedWords();
 
-  console.log(knownWords);
   
   
   // Filter out words that are already known
@@ -29,7 +28,6 @@ export async function GET(request) {
     !excludedWords.some(excludedWord => excludedWord.japanese === word.japanese)
   );
 
-  console.log(wordsToLearn);
   
 
   return new Response(JSON.stringify(wordsToLearn), {

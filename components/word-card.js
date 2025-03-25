@@ -35,11 +35,9 @@ export function WordCard({ word, onLearned, onExcluded }) {
 
   const handleSwipeEnd = () => {
     if (offsetX > 100) {
-        console.log('swiped right');
       if (onLearned) onLearned(word);
     }
     if (offsetX < -100) {
-        console.log('swiped left');
         if (onExcluded) onExcluded(word);
     }
     setSwiping(false);
