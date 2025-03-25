@@ -1,0 +1,4136 @@
+[
+  {
+    "id": "163-1",
+    "japanese": "あ〜",
+    "reading": "あ",
+    "english": "a~"
+  },
+  {
+    "id": "163-2",
+    "japanese": "あ〜あ",
+    "reading": "あ",
+    "english": "ah"
+  },
+  {
+    "id": "163-3",
+    "japanese": "あいつ",
+    "reading": "あいつ",
+    "english": "That guy"
+  },
+  {
+    "id": "163-4",
+    "japanese": "あう",
+    "reading": "あう",
+    "english": "match"
+  },
+  {
+    "id": "163-5",
+    "japanese": "あげよう",
+    "reading": "あげよう",
+    "english": "Let's give it"
+  },
+  {
+    "id": "163-6",
+    "japanese": "あたい",
+    "reading": "あたい",
+    "english": "Ah"
+  },
+  {
+    "id": "163-7",
+    "japanese": "あっ",
+    "reading": "あっ",
+    "english": "Ah"
+  },
+  {
+    "id": "163-8",
+    "japanese": "あの",
+    "reading": "あの",
+    "english": "that"
+  },
+  {
+    "id": "163-9",
+    "japanese": "あららら",
+    "reading": "あららら",
+    "english": "Oh oh"
+  },
+  {
+    "id": "163-10",
+    "japanese": "ある",
+    "reading": "ある",
+    "english": "be"
+  },
+  {
+    "id": "163-11",
+    "japanese": "あるいは",
+    "reading": "あるいは",
+    "english": "or"
+  },
+  {
+    "id": "163-12",
+    "japanese": "あれ",
+    "reading": "あれ",
+    "english": "That"
+  },
+  {
+    "id": "163-13",
+    "japanese": "あんな",
+    "reading": "あんな",
+    "english": "That kind of thing"
+  },
+  {
+    "id": "163-14",
+    "japanese": "いい",
+    "reading": "いい",
+    "english": "good"
+  },
+  {
+    "id": "163-15",
+    "japanese": "いう",
+    "reading": "いう",
+    "english": "say"
+  },
+  {
+    "id": "163-16",
+    "japanese": "いか",
+    "reading": "いか",
+    "english": "squid"
+  },
+  {
+    "id": "163-17",
+    "japanese": "いく",
+    "reading": "いく",
+    "english": "go"
+  },
+  {
+    "id": "163-18",
+    "japanese": "いくら",
+    "reading": "いくら",
+    "english": "how much"
+  },
+  {
+    "id": "163-19",
+    "japanese": "いけ",
+    "reading": "いけ",
+    "english": "Go"
+  },
+  {
+    "id": "163-20",
+    "japanese": "いけにえ",
+    "reading": "いけにえ",
+    "english": "sacrifice"
+  },
+  {
+    "id": "163-21",
+    "japanese": "いつ",
+    "reading": "いつ",
+    "english": "when"
+  },
+  {
+    "id": "163-22",
+    "japanese": "いでよ",
+    "reading": "いでよ",
+    "english": "Come on"
+  },
+  {
+    "id": "163-23",
+    "japanese": "いや",
+    "reading": "いや",
+    "english": "no"
+  },
+  {
+    "id": "163-24",
+    "japanese": "いやあ",
+    "reading": "いやあ",
+    "english": "No"
+  },
+  {
+    "id": "163-25",
+    "japanese": "いやっ",
+    "reading": "いやっ",
+    "english": "No"
+  },
+  {
+    "id": "163-26",
+    "japanese": "いる",
+    "reading": "いる",
+    "english": "There is"
+  },
+  {
+    "id": "163-27",
+    "japanese": "うあ",
+    "reading": "うあ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-28",
+    "japanese": "ううっ",
+    "reading": "ううっ",
+    "english": "Uuh"
+  },
+  {
+    "id": "163-29",
+    "japanese": "うお",
+    "reading": "うお",
+    "english": "Wow"
+  },
+  {
+    "id": "163-30",
+    "japanese": "うっ",
+    "reading": "うっ",
+    "english": "Yes"
+  },
+  {
+    "id": "163-31",
+    "japanese": "うわ",
+    "reading": "うわ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-32",
+    "japanese": "うわ〜",
+    "reading": "うわ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-33",
+    "japanese": "うわあ",
+    "reading": "うわあ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-34",
+    "japanese": "うわっ",
+    "reading": "うわっ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-35",
+    "japanese": "うん",
+    "reading": "うん",
+    "english": "Yeah"
+  },
+  {
+    "id": "163-36",
+    "japanese": "ええ",
+    "reading": "ええ",
+    "english": "Yeah"
+  },
+  {
+    "id": "163-37",
+    "japanese": "えっ",
+    "reading": "えっ",
+    "english": "What?"
+  },
+  {
+    "id": "163-38",
+    "japanese": "おい",
+    "reading": "おい",
+    "english": "Hey"
+  },
+  {
+    "id": "163-39",
+    "japanese": "おかしい",
+    "reading": "おかしい",
+    "english": "strange"
+  },
+  {
+    "id": "163-40",
+    "japanese": "おく",
+    "reading": "おく",
+    "english": "put"
+  },
+  {
+    "id": "163-41",
+    "japanese": "おっ",
+    "reading": "おっ",
+    "english": "Oh"
+  },
+  {
+    "id": "163-42",
+    "japanese": "おのが",
+    "reading": "おのが",
+    "english": "The one"
+  },
+  {
+    "id": "163-43",
+    "japanese": "おのれ",
+    "reading": "おのれ",
+    "english": "My heart"
+  },
+  {
+    "id": "163-44",
+    "japanese": "おめえ",
+    "reading": "おめえ",
+    "english": "Congratulations"
+  },
+  {
+    "id": "163-45",
+    "japanese": "おら",
+    "reading": "おら",
+    "english": "You"
+  },
+  {
+    "id": "163-46",
+    "japanese": "お前",
+    "reading": "お",
+    "english": "you"
+  },
+  {
+    "id": "163-47",
+    "japanese": "か〜",
+    "reading": "か",
+    "english": "mosquito~"
+  },
+  {
+    "id": "163-48",
+    "japanese": "かしら",
+    "reading": "かしら",
+    "english": "I wonder"
+  },
+  {
+    "id": "163-49",
+    "japanese": "かずら",
+    "reading": "かずら",
+    "english": "Kazura"
+  },
+  {
+    "id": "163-50",
+    "japanese": "かたり",
+    "reading": "かたり",
+    "english": "A slurred"
+  },
+  {
+    "id": "163-51",
+    "japanese": "かなう",
+    "reading": "かなう",
+    "english": "I'm"
+  },
+  {
+    "id": "163-52",
+    "japanese": "から",
+    "reading": "から",
+    "english": "from"
+  },
+  {
+    "id": "163-53",
+    "japanese": "かわいい",
+    "reading": "かわいい",
+    "english": "cute"
+  },
+  {
+    "id": "163-54",
+    "japanese": "か弱い",
+    "reading": "か",
+    "english": "It's weak"
+  },
+  {
+    "id": "163-55",
+    "japanese": "きっと",
+    "reading": "きっと",
+    "english": "surely"
+  },
+  {
+    "id": "163-56",
+    "japanese": "くう",
+    "reading": "くう",
+    "english": "eat"
+  },
+  {
+    "id": "163-57",
+    "japanese": "くせ",
+    "reading": "くせ",
+    "english": "I'm not"
+  },
+  {
+    "id": "163-58",
+    "japanese": "くたばっ",
+    "reading": "くたばっ",
+    "english": "Damn it"
+  },
+  {
+    "id": "163-59",
+    "japanese": "ください",
+    "reading": "ください",
+    "english": "please"
+  },
+  {
+    "id": "163-60",
+    "japanese": "くだら",
+    "reading": "くだら",
+    "english": "Fuck"
+  },
+  {
+    "id": "163-61",
+    "japanese": "くっ",
+    "reading": "くっ",
+    "english": "Damn"
+  },
+  {
+    "id": "163-62",
+    "japanese": "くっつく",
+    "reading": "くっつく",
+    "english": "Stick"
+  },
+  {
+    "id": "163-63",
+    "japanese": "くる",
+    "reading": "くる",
+    "english": "Come"
+  },
+  {
+    "id": "163-64",
+    "japanese": "くれれ",
+    "reading": "くれれ",
+    "english": "Give me"
+  },
+  {
+    "id": "163-65",
+    "japanese": "くんだり",
+    "reading": "くんだり",
+    "english": "Kudari"
+  },
+  {
+    "id": "163-66",
+    "japanese": "ぐう",
+    "reading": "ぐう",
+    "english": "Gu"
+  },
+  {
+    "id": "163-67",
+    "japanese": "ぐお",
+    "reading": "ぐお",
+    "english": "Guo"
+  },
+  {
+    "id": "163-68",
+    "japanese": "ぐっ",
+    "reading": "ぐっ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-69",
+    "japanese": "ぐも",
+    "reading": "ぐも",
+    "english": "Gumo"
+  },
+  {
+    "id": "163-70",
+    "japanese": "けど",
+    "reading": "けど",
+    "english": "But"
+  },
+  {
+    "id": "163-71",
+    "japanese": "けら",
+    "reading": "けら",
+    "english": "I'm not sure"
+  },
+  {
+    "id": "163-72",
+    "japanese": "こいつ",
+    "reading": "こいつ",
+    "english": "This guy"
+  },
+  {
+    "id": "163-73",
+    "japanese": "こう",
+    "reading": "こう",
+    "english": "like this"
+  },
+  {
+    "id": "163-74",
+    "japanese": "ここ",
+    "reading": "ここ",
+    "english": "here"
+  },
+  {
+    "id": "163-75",
+    "japanese": "こしゃく",
+    "reading": "こしゃく",
+    "english": "Sweet"
+  },
+  {
+    "id": "163-76",
+    "japanese": "こしょう",
+    "reading": "こしょう",
+    "english": "Pick it"
+  },
+  {
+    "id": "163-77",
+    "japanese": "こそ",
+    "reading": "こそ",
+    "english": "It's"
+  },
+  {
+    "id": "163-78",
+    "japanese": "こだま",
+    "reading": "こだま",
+    "english": "echo"
+  },
+  {
+    "id": "163-79",
+    "japanese": "こっち",
+    "reading": "こっち",
+    "english": "This one"
+  },
+  {
+    "id": "163-80",
+    "japanese": "こと",
+    "reading": "こと",
+    "english": "thing"
+  },
+  {
+    "id": "163-81",
+    "japanese": "この",
+    "reading": "この",
+    "english": "this"
+  },
+  {
+    "id": "163-82",
+    "japanese": "これ",
+    "reading": "これ",
+    "english": "this"
+  },
+  {
+    "id": "163-83",
+    "japanese": "こん",
+    "reading": "こん",
+    "english": "dark blue"
+  },
+  {
+    "id": "163-84",
+    "japanese": "こんな",
+    "reading": "こんな",
+    "english": "This"
+  },
+  {
+    "id": "163-85",
+    "japanese": "さ〜",
+    "reading": "さ",
+    "english": "difference~"
+  },
+  {
+    "id": "163-86",
+    "japanese": "さえ",
+    "reading": "さえ",
+    "english": "even"
+  },
+  {
+    "id": "163-87",
+    "japanese": "さっき",
+    "reading": "さっき",
+    "english": "some time ago"
+  },
+  {
+    "id": "163-88",
+    "japanese": "さっさと",
+    "reading": "さっさと",
+    "english": "quickly"
+  },
+  {
+    "id": "163-89",
+    "japanese": "さて",
+    "reading": "さて",
+    "english": "Well"
+  },
+  {
+    "id": "163-90",
+    "japanese": "さまよい",
+    "reading": "さまよい",
+    "english": "Wandering"
+  },
+  {
+    "id": "163-91",
+    "japanese": "しか",
+    "reading": "しか",
+    "english": "deer"
+  },
+  {
+    "id": "163-92",
+    "japanese": "しかし",
+    "reading": "しかし",
+    "english": "but"
+  },
+  {
+    "id": "163-93",
+    "japanese": "しき",
+    "reading": "しき",
+    "english": "Shiki"
+  },
+  {
+    "id": "163-94",
+    "japanese": "しぶとい",
+    "reading": "しぶとい",
+    "english": "Stubborn"
+  },
+  {
+    "id": "163-95",
+    "japanese": "しまう",
+    "reading": "しまう",
+    "english": "I put it in"
+  },
+  {
+    "id": "163-96",
+    "japanese": "しまっ",
+    "reading": "しまっ",
+    "english": "Shit"
+  },
+  {
+    "id": "163-97",
+    "japanese": "しよう",
+    "reading": "しよう",
+    "english": "let's"
+  },
+  {
+    "id": "163-98",
+    "japanese": "じま",
+    "reading": "じま",
+    "english": "Immediate"
+  },
+  {
+    "id": "163-99",
+    "japanese": "すぐ",
+    "reading": "すぐ",
+    "english": "Immediately"
+  },
+  {
+    "id": "163-100",
+    "japanese": "すげえ",
+    "reading": "すげえ",
+    "english": "Amazing"
+  },
+  {
+    "id": "163-101",
+    "japanese": "すばらしい",
+    "reading": "すばらしい",
+    "english": "wonderful"
+  },
+  {
+    "id": "163-102",
+    "japanese": "する",
+    "reading": "する",
+    "english": "do"
+  },
+  {
+    "id": "163-103",
+    "japanese": "すれ",
+    "reading": "すれ",
+    "english": "Sweep"
+  },
+  {
+    "id": "163-104",
+    "japanese": "せい",
+    "reading": "せい",
+    "english": "because of"
+  },
+  {
+    "id": "163-105",
+    "japanese": "そう",
+    "reading": "そう",
+    "english": "yes"
+  },
+  {
+    "id": "163-106",
+    "japanese": "そっち",
+    "reading": "そっち",
+    "english": "That's it"
+  },
+  {
+    "id": "163-107",
+    "japanese": "そっと",
+    "reading": "そっと",
+    "english": "Slowly"
+  },
+  {
+    "id": "163-108",
+    "japanese": "その",
+    "reading": "その",
+    "english": "the"
+  },
+  {
+    "id": "163-109",
+    "japanese": "そら",
+    "reading": "そら",
+    "english": "Right"
+  },
+  {
+    "id": "163-110",
+    "japanese": "そりゃ",
+    "reading": "そりゃ",
+    "english": "Of course"
+  },
+  {
+    "id": "163-111",
+    "japanese": "それ",
+    "reading": "それ",
+    "english": "that"
+  },
+  {
+    "id": "163-112",
+    "japanese": "そんな",
+    "reading": "そんな",
+    "english": "That"
+  },
+  {
+    "id": "163-113",
+    "japanese": "たあ",
+    "reading": "たあ",
+    "english": "Ah"
+  },
+  {
+    "id": "163-114",
+    "japanese": "たい",
+    "reading": "たい",
+    "english": "sea ​​bream"
+  },
+  {
+    "id": "163-115",
+    "japanese": "たいじ",
+    "reading": "たいじ",
+    "english": "Taiji"
+  },
+  {
+    "id": "163-116",
+    "japanese": "たか",
+    "reading": "たか",
+    "english": "Taka"
+  },
+  {
+    "id": "163-117",
+    "japanese": "たく",
+    "reading": "たく",
+    "english": "Taku"
+  },
+  {
+    "id": "163-118",
+    "japanese": "たけ",
+    "reading": "たけ",
+    "english": "Take"
+  },
+  {
+    "id": "163-119",
+    "japanese": "たけれ",
+    "reading": "たけれ",
+    "english": "Takere"
+  },
+  {
+    "id": "163-120",
+    "japanese": "たたき潰し",
+    "reading": "たたき",
+    "english": "Smashing"
+  },
+  {
+    "id": "163-121",
+    "japanese": "たち",
+    "reading": "たち",
+    "english": "We"
+  },
+  {
+    "id": "163-122",
+    "japanese": "たちまち",
+    "reading": "たちまち",
+    "english": "Instantly"
+  },
+  {
+    "id": "163-123",
+    "japanese": "たどり着く",
+    "reading": "たどり",
+    "english": "I'll reach it"
+  },
+  {
+    "id": "163-124",
+    "japanese": "たま",
+    "reading": "たま",
+    "english": "Tama"
+  },
+  {
+    "id": "163-125",
+    "japanese": "ためらわ",
+    "reading": "ためらわ",
+    "english": "I hesitate"
+  },
+  {
+    "id": "163-126",
+    "japanese": "たら",
+    "reading": "たら",
+    "english": "If"
+  },
+  {
+    "id": "163-127",
+    "japanese": "たり",
+    "reading": "たり",
+    "english": "Or"
+  },
+  {
+    "id": "163-128",
+    "japanese": "だあ",
+    "reading": "だあ",
+    "english": "Right"
+  },
+  {
+    "id": "163-129",
+    "japanese": "だいせ",
+    "reading": "だいせ",
+    "english": "I'm"
+  },
+  {
+    "id": "163-130",
+    "japanese": "だけ",
+    "reading": "だけ",
+    "english": "only"
+  },
+  {
+    "id": "163-131",
+    "japanese": "だま",
+    "reading": "だま",
+    "english": "Demon"
+  },
+  {
+    "id": "163-132",
+    "japanese": "だろ",
+    "reading": "だろ",
+    "english": "Is that so?"
+  },
+  {
+    "id": "163-133",
+    "japanese": "だろう",
+    "reading": "だろう",
+    "english": "It must be"
+  },
+  {
+    "id": "163-134",
+    "japanese": "ちっ",
+    "reading": "ちっ",
+    "english": "Tw"
+  },
+  {
+    "id": "163-135",
+    "japanese": "ちょっと",
+    "reading": "ちょっと",
+    "english": "a little bit"
+  },
+  {
+    "id": "163-136",
+    "japanese": "っ",
+    "reading": "っ",
+    "english": "Ah"
+  },
+  {
+    "id": "163-137",
+    "japanese": "ったって",
+    "reading": "ったって",
+    "english": "That's what"
+  },
+  {
+    "id": "163-138",
+    "japanese": "って",
+    "reading": "って",
+    "english": "That's what"
+  },
+  {
+    "id": "163-139",
+    "japanese": "っと",
+    "reading": "っと",
+    "english": "I'm"
+  },
+  {
+    "id": "163-140",
+    "japanese": "つい",
+    "reading": "つい",
+    "english": "unintentionally"
+  },
+  {
+    "id": "163-141",
+    "japanese": "ついに",
+    "reading": "ついに",
+    "english": "Finally"
+  },
+  {
+    "id": "163-142",
+    "japanese": "つない",
+    "reading": "つない",
+    "english": "Connect"
+  },
+  {
+    "id": "163-143",
+    "japanese": "つまり",
+    "reading": "つまり",
+    "english": "In other words"
+  },
+  {
+    "id": "163-144",
+    "japanese": "つら",
+    "reading": "つら",
+    "english": "I'm"
+  },
+  {
+    "id": "163-145",
+    "japanese": "てめえ",
+    "reading": "てめえ",
+    "english": "It's"
+  },
+  {
+    "id": "163-146",
+    "japanese": "てる",
+    "reading": "てる",
+    "english": "It's"
+  },
+  {
+    "id": "163-147",
+    "japanese": "てん",
+    "reading": "てん",
+    "english": "point"
+  },
+  {
+    "id": "163-148",
+    "japanese": "でき",
+    "reading": "でき",
+    "english": "Can"
+  },
+  {
+    "id": "163-149",
+    "japanese": "できる",
+    "reading": "できる",
+    "english": "can"
+  },
+  {
+    "id": "163-150",
+    "japanese": "です",
+    "reading": "です",
+    "english": "is"
+  },
+  {
+    "id": "163-151",
+    "japanese": "とう",
+    "reading": "とう",
+    "english": "tower"
+  },
+  {
+    "id": "163-152",
+    "japanese": "とけ",
+    "reading": "とけ",
+    "english": "Toss"
+  },
+  {
+    "id": "163-153",
+    "japanese": "とこ",
+    "reading": "とこ",
+    "english": "To"
+  },
+  {
+    "id": "163-154",
+    "japanese": "とっ",
+    "reading": "とっ",
+    "english": "To"
+  },
+  {
+    "id": "163-155",
+    "japanese": "とどめ",
+    "reading": "とどめ",
+    "english": "Continue"
+  },
+  {
+    "id": "163-156",
+    "japanese": "とにかく",
+    "reading": "とにかく",
+    "english": "anyway"
+  },
+  {
+    "id": "163-157",
+    "japanese": "とも",
+    "reading": "とも",
+    "english": "friend"
+  },
+  {
+    "id": "163-158",
+    "japanese": "とやかく",
+    "reading": "とやかく",
+    "english": "Sneak"
+  },
+  {
+    "id": "163-159",
+    "japanese": "どいつ",
+    "reading": "どいつ",
+    "english": "When"
+  },
+  {
+    "id": "163-160",
+    "japanese": "どう",
+    "reading": "どう",
+    "english": "copper"
+  },
+  {
+    "id": "163-161",
+    "japanese": "どこ",
+    "reading": "どこ",
+    "english": "where"
+  },
+  {
+    "id": "163-162",
+    "japanese": "どころ",
+    "reading": "どころ",
+    "english": "The point"
+  },
+  {
+    "id": "163-163",
+    "japanese": "どっち道",
+    "reading": "どっち",
+    "english": "Which way"
+  },
+  {
+    "id": "163-164",
+    "japanese": "ども",
+    "reading": "ども",
+    "english": "Hello"
+  },
+  {
+    "id": "163-165",
+    "japanese": "どれ",
+    "reading": "どれ",
+    "english": "which one"
+  },
+  {
+    "id": "163-166",
+    "japanese": "ない",
+    "reading": "ない",
+    "english": "do not have"
+  },
+  {
+    "id": "163-167",
+    "japanese": "なかっ",
+    "reading": "なかっ",
+    "english": "Not"
+  },
+  {
+    "id": "163-168",
+    "japanese": "なかなか",
+    "reading": "なかなか",
+    "english": "Quite quite"
+  },
+  {
+    "id": "163-169",
+    "japanese": "なきゃ",
+    "reading": "なきゃ",
+    "english": "If not"
+  },
+  {
+    "id": "163-170",
+    "japanese": "なく",
+    "reading": "なく",
+    "english": "No"
+  },
+  {
+    "id": "163-171",
+    "japanese": "なくなる",
+    "reading": "なくなる",
+    "english": "It's gone"
+  },
+  {
+    "id": "163-172",
+    "japanese": "なぜ",
+    "reading": "なぜ",
+    "english": "why"
+  },
+  {
+    "id": "163-173",
+    "japanese": "なっ",
+    "reading": "なっ",
+    "english": "What"
+  },
+  {
+    "id": "163-174",
+    "japanese": "なに",
+    "reading": "なに",
+    "english": "what"
+  },
+  {
+    "id": "163-175",
+    "japanese": "なまぬるい",
+    "reading": "なまぬるい",
+    "english": "It's lukewarm"
+  },
+  {
+    "id": "163-176",
+    "japanese": "なら",
+    "reading": "なら",
+    "english": "If so"
+  },
+  {
+    "id": "163-177",
+    "japanese": "なり",
+    "reading": "なり",
+    "english": "Become"
+  },
+  {
+    "id": "163-178",
+    "japanese": "なる",
+    "reading": "なる",
+    "english": "It's going to become"
+  },
+  {
+    "id": "163-179",
+    "japanese": "なん",
+    "reading": "なん",
+    "english": "what"
+  },
+  {
+    "id": "163-180",
+    "japanese": "なんか",
+    "reading": "なんか",
+    "english": "Something"
+  },
+  {
+    "id": "163-181",
+    "japanese": "なんて",
+    "reading": "なんて",
+    "english": "What"
+  },
+  {
+    "id": "163-182",
+    "japanese": "ぬわあ",
+    "reading": "ぬわあ",
+    "english": "Nooooo"
+  },
+  {
+    "id": "163-183",
+    "japanese": "ね〜",
+    "reading": "ね",
+    "english": "hey~"
+  },
+  {
+    "id": "163-184",
+    "japanese": "ねえ",
+    "reading": "ねえ",
+    "english": "Hey"
+  },
+  {
+    "id": "163-185",
+    "japanese": "はい",
+    "reading": "はい",
+    "english": "yes"
+  },
+  {
+    "id": "163-186",
+    "japanese": "はっ",
+    "reading": "はっ",
+    "english": "Ha"
+  },
+  {
+    "id": "163-187",
+    "japanese": "はっはっは",
+    "reading": "はっはっは",
+    "english": "Hahaha"
+  },
+  {
+    "id": "163-188",
+    "japanese": "はは",
+    "reading": "はは",
+    "english": "mother"
+  },
+  {
+    "id": "163-189",
+    "japanese": "ひきょう",
+    "reading": "ひきょう",
+    "english": "Hour"
+  },
+  {
+    "id": "163-190",
+    "japanese": "ひも",
+    "reading": "ひも",
+    "english": "Thong"
+  },
+  {
+    "id": "163-191",
+    "japanese": "びっくり",
+    "reading": "びっくり",
+    "english": "Surprising"
+  },
+  {
+    "id": "163-192",
+    "japanese": "ふしぎ",
+    "reading": "ふしぎ",
+    "english": "Mysterious"
+  },
+  {
+    "id": "163-193",
+    "japanese": "ふん",
+    "reading": "ふん",
+    "english": "Hmm"
+  },
+  {
+    "id": "163-194",
+    "japanese": "へっ",
+    "reading": "へっ",
+    "english": "Heh"
+  },
+  {
+    "id": "163-195",
+    "japanese": "べき",
+    "reading": "べき",
+    "english": "Should"
+  },
+  {
+    "id": "163-196",
+    "japanese": "ほう",
+    "reading": "ほう",
+    "english": "law"
+  },
+  {
+    "id": "163-197",
+    "japanese": "ほっほ",
+    "reading": "ほっほ",
+    "english": "Hoo"
+  },
+  {
+    "id": "163-198",
+    "japanese": "ほっほう",
+    "reading": "ほっほう",
+    "english": "I'm gonna"
+  },
+  {
+    "id": "163-199",
+    "japanese": "ほっほほ",
+    "reading": "ほっほほ",
+    "english": "Hohoho"
+  },
+  {
+    "id": "163-200",
+    "japanese": "ほどほど",
+    "reading": "ほどほど",
+    "english": "Moderate"
+  },
+  {
+    "id": "163-201",
+    "japanese": "ほほ",
+    "reading": "ほほ",
+    "english": "Hoho"
+  },
+  {
+    "id": "163-202",
+    "japanese": "ほほう",
+    "reading": "ほほう",
+    "english": "Oh"
+  },
+  {
+    "id": "163-203",
+    "japanese": "まあ",
+    "reading": "まあ",
+    "english": "oh dear"
+  },
+  {
+    "id": "163-204",
+    "japanese": "まい",
+    "reading": "まい",
+    "english": "dance"
+  },
+  {
+    "id": "163-205",
+    "japanese": "まか",
+    "reading": "まか",
+    "english": "Is it?"
+  },
+  {
+    "id": "163-206",
+    "japanese": "まさ",
+    "reading": "まさ",
+    "english": "Masa"
+  },
+  {
+    "id": "163-207",
+    "japanese": "ましょう",
+    "reading": "ましょう",
+    "english": "Let's do it"
+  },
+  {
+    "id": "163-208",
+    "japanese": "また",
+    "reading": "また",
+    "english": "Also"
+  },
+  {
+    "id": "163-209",
+    "japanese": "まだ",
+    "reading": "まだ",
+    "english": "still"
+  },
+  {
+    "id": "163-210",
+    "japanese": "まっ",
+    "reading": "まっ",
+    "english": "Well"
+  },
+  {
+    "id": "163-211",
+    "japanese": "まで",
+    "reading": "まで",
+    "english": "to"
+  },
+  {
+    "id": "163-212",
+    "japanese": "まま",
+    "reading": "まま",
+    "english": "Stay"
+  },
+  {
+    "id": "163-213",
+    "japanese": "むっ",
+    "reading": "むっ",
+    "english": "Mmm"
+  },
+  {
+    "id": "163-214",
+    "japanese": "もう",
+    "reading": "もう",
+    "english": "already"
+  },
+  {
+    "id": "163-215",
+    "japanese": "もっと",
+    "reading": "もっと",
+    "english": "more"
+  },
+  {
+    "id": "163-216",
+    "japanese": "もの",
+    "reading": "もの",
+    "english": "thing"
+  },
+  {
+    "id": "163-217",
+    "japanese": "もはや",
+    "reading": "もはや",
+    "english": "no longer"
+  },
+  {
+    "id": "163-218",
+    "japanese": "もらっ",
+    "reading": "もらっ",
+    "english": "Get it"
+  },
+  {
+    "id": "163-219",
+    "japanese": "もん",
+    "reading": "もん",
+    "english": "Mon"
+  },
+  {
+    "id": "163-220",
+    "japanese": "や〜",
+    "reading": "や",
+    "english": "or~"
+  },
+  {
+    "id": "163-221",
+    "japanese": "やっ",
+    "reading": "やっ",
+    "english": "That's it"
+  },
+  {
+    "id": "163-222",
+    "japanese": "やっと",
+    "reading": "やっと",
+    "english": "at last"
+  },
+  {
+    "id": "163-223",
+    "japanese": "やっぱり",
+    "reading": "やっぱり",
+    "english": "on second thoughts"
+  },
+  {
+    "id": "163-224",
+    "japanese": "やめろ",
+    "reading": "やめろ",
+    "english": "Stop it"
+  },
+  {
+    "id": "163-225",
+    "japanese": "やや",
+    "reading": "やや",
+    "english": "somewhat"
+  },
+  {
+    "id": "163-226",
+    "japanese": "やる",
+    "reading": "やる",
+    "english": "do"
+  },
+  {
+    "id": "163-227",
+    "japanese": "ゆく",
+    "reading": "ゆく",
+    "english": "Going"
+  },
+  {
+    "id": "163-228",
+    "japanese": "ゆけ",
+    "reading": "ゆけ",
+    "english": "Go"
+  },
+  {
+    "id": "163-229",
+    "japanese": "よう",
+    "reading": "よう",
+    "english": "Well"
+  },
+  {
+    "id": "163-230",
+    "japanese": "よし",
+    "reading": "よし",
+    "english": "Okay"
+  },
+  {
+    "id": "163-231",
+    "japanese": "よっ",
+    "reading": "よっ",
+    "english": "Right"
+  },
+  {
+    "id": "163-232",
+    "japanese": "より",
+    "reading": "より",
+    "english": "twist"
+  },
+  {
+    "id": "163-233",
+    "japanese": "られ",
+    "reading": "られ",
+    "english": "Is it possible"
+  },
+  {
+    "id": "163-234",
+    "japanese": "られる",
+    "reading": "られる",
+    "english": "Can be done"
+  },
+  {
+    "id": "163-235",
+    "japanese": "れる",
+    "reading": "れる",
+    "english": "Become"
+  },
+  {
+    "id": "163-236",
+    "japanese": "わあ",
+    "reading": "わあ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-237",
+    "japanese": "わがまま",
+    "reading": "わがまま",
+    "english": "Selfish"
+  },
+  {
+    "id": "163-238",
+    "japanese": "わけ",
+    "reading": "わけ",
+    "english": "What's more"
+  },
+  {
+    "id": "163-239",
+    "japanese": "んっ",
+    "reading": "んっ",
+    "english": "Hmm"
+  },
+  {
+    "id": "163-240",
+    "japanese": "アイ",
+    "reading": "あい",
+    "english": "Eye"
+  },
+  {
+    "id": "163-241",
+    "japanese": "アイサ",
+    "reading": "あいさ",
+    "english": "Aisa"
+  },
+  {
+    "id": "163-242",
+    "japanese": "アッパー",
+    "reading": "あっぱー",
+    "english": "upper"
+  },
+  {
+    "id": "163-243",
+    "japanese": "アホ",
+    "reading": "あほ",
+    "english": "I'm not"
+  },
+  {
+    "id": "163-244",
+    "japanese": "イッヒッヒッヒッ",
+    "reading": "いっひっひっひっ",
+    "english": "Hey hey"
+  },
+  {
+    "id": "163-245",
+    "japanese": "ウソップ",
+    "reading": "うそっぷ",
+    "english": "Usopp"
+  },
+  {
+    "id": "163-246",
+    "japanese": "エエ",
+    "reading": "ええ",
+    "english": "Eee"
+  },
+  {
+    "id": "163-247",
+    "japanese": "エネ",
+    "reading": "えね",
+    "english": "Ene"
+  },
+  {
+    "id": "163-248",
+    "japanese": "エンジェル",
+    "reading": "えんじぇる",
+    "english": "Angel"
+  },
+  {
+    "id": "163-249",
+    "japanese": "カマキリ",
+    "reading": "かまきり",
+    "english": "Mantis"
+  },
+  {
+    "id": "163-250",
+    "japanese": "カル",
+    "reading": "かる",
+    "english": "Cal"
+  },
+  {
+    "id": "163-251",
+    "japanese": "カルガラ",
+    "reading": "かるがら",
+    "english": "Calgara"
+  },
+  {
+    "id": "163-252",
+    "japanese": "ガキ",
+    "reading": "がき",
+    "english": "Blade"
+  },
+  {
+    "id": "163-253",
+    "japanese": "ガラ",
+    "reading": "がら",
+    "english": "Gala"
+  },
+  {
+    "id": "163-254",
+    "japanese": "ガン",
+    "reading": "がん",
+    "english": "gun"
+  },
+  {
+    "id": "163-255",
+    "japanese": "ギク",
+    "reading": "ぎく",
+    "english": "Grip"
+  },
+  {
+    "id": "163-256",
+    "japanese": "クア",
+    "reading": "くあ",
+    "english": "Kua"
+  },
+  {
+    "id": "163-257",
+    "japanese": "クカ",
+    "reading": "くか",
+    "english": "Kuka"
+  },
+  {
+    "id": "163-258",
+    "japanese": "クソ",
+    "reading": "くそ",
+    "english": "Damn it"
+  },
+  {
+    "id": "163-259",
+    "japanese": "ケース",
+    "reading": "けーす",
+    "english": "case"
+  },
+  {
+    "id": "163-260",
+    "japanese": "コンカッセ",
+    "reading": "こんかっせ",
+    "english": "Concasse"
+  },
+  {
+    "id": "163-261",
+    "japanese": "ゴッド",
+    "reading": "ごっど",
+    "english": "God"
+  },
+  {
+    "id": "163-262",
+    "japanese": "ゴム",
+    "reading": "ごむ",
+    "english": "Rubber"
+  },
+  {
+    "id": "163-263",
+    "japanese": "ゴールド",
+    "reading": "ごーるど",
+    "english": "gold"
+  },
+  {
+    "id": "163-264",
+    "japanese": "サトリ",
+    "reading": "さとり",
+    "english": "Satori"
+  },
+  {
+    "id": "163-265",
+    "japanese": "サメ",
+    "reading": "さめ",
+    "english": "Shark"
+  },
+  {
+    "id": "163-266",
+    "japanese": "サンジ",
+    "reading": "さんじ",
+    "english": "Sanji"
+  },
+  {
+    "id": "163-267",
+    "japanese": "シャンドラ",
+    "reading": "しゃんどら",
+    "english": "Shandra"
+  },
+  {
+    "id": "163-268",
+    "japanese": "シュラ",
+    "reading": "しゅら",
+    "english": "Shra"
+  },
+  {
+    "id": "163-269",
+    "japanese": "ジジイ",
+    "reading": "じじい",
+    "english": "Old man"
+  },
+  {
+    "id": "163-270",
+    "japanese": "スゲえ",
+    "reading": "すげ",
+    "english": "Suge"
+  },
+  {
+    "id": "163-271",
+    "japanese": "ゾオン",
+    "reading": "ぞおん",
+    "english": "Zoon"
+  },
+  {
+    "id": "163-272",
+    "japanese": "ゾロ",
+    "reading": "ぞろ",
+    "english": "Zoro"
+  },
+  {
+    "id": "163-273",
+    "japanese": "ダメ",
+    "reading": "だめ",
+    "english": "No"
+  },
+  {
+    "id": "163-274",
+    "japanese": "ダンゴ",
+    "reading": "だんご",
+    "english": "Dango"
+  },
+  {
+    "id": "163-275",
+    "japanese": "チャンス",
+    "reading": "ちゃんす",
+    "english": "chance"
+  },
+  {
+    "id": "163-276",
+    "japanese": "チョッパー",
+    "reading": "ちょっぱー",
+    "english": "chopper"
+  },
+  {
+    "id": "163-277",
+    "japanese": "ッ",
+    "reading": "っ",
+    "english": "Ah"
+  },
+  {
+    "id": "163-278",
+    "japanese": "テント",
+    "reading": "てんと",
+    "english": "tent"
+  },
+  {
+    "id": "163-279",
+    "japanese": "ドラゴン",
+    "reading": "どらごん",
+    "english": "Dragon"
+  },
+  {
+    "id": "163-280",
+    "japanese": "ナミ",
+    "reading": "なみ",
+    "english": "Nami"
+  },
+  {
+    "id": "163-281",
+    "japanese": "ナレーション",
+    "reading": "なれーしょん",
+    "english": "Narration"
+  },
+  {
+    "id": "163-282",
+    "japanese": "ニス",
+    "reading": "にす",
+    "english": "varnish"
+  },
+  {
+    "id": "163-283",
+    "japanese": "ニッヒッヒッヒ",
+    "reading": "にっひっひっひ",
+    "english": "Nich"
+  },
+  {
+    "id": "163-284",
+    "japanese": "ニヒヒヒ",
+    "reading": "にひひひ",
+    "english": "Niheehihi"
+  },
+  {
+    "id": "163-285",
+    "japanese": "ハァ",
+    "reading": "はぁ",
+    "english": "Haa"
+  },
+  {
+    "id": "163-286",
+    "japanese": "ハァ〜",
+    "reading": "はぁ",
+    "english": "Haa"
+  },
+  {
+    "id": "163-287",
+    "japanese": "ハッ",
+    "reading": "はっ",
+    "english": "Ha"
+  },
+  {
+    "id": "163-288",
+    "japanese": "ハッハッハッ",
+    "reading": "はっはっはっ",
+    "english": "Ha ha ha"
+  },
+  {
+    "id": "163-289",
+    "japanese": "ハム",
+    "reading": "はむ",
+    "english": "ham"
+  },
+  {
+    "id": "163-290",
+    "japanese": "バカ",
+    "reading": "ばか",
+    "english": "fool"
+  },
+  {
+    "id": "163-291",
+    "japanese": "バッグ",
+    "reading": "ばっぐ",
+    "english": "bag"
+  },
+  {
+    "id": "163-292",
+    "japanese": "バランス",
+    "reading": "ばらんす",
+    "english": "balance"
+  },
+  {
+    "id": "163-293",
+    "japanese": "パガヤ",
+    "reading": "ぱがや",
+    "english": "Pagaya"
+  },
+  {
+    "id": "163-294",
+    "japanese": "ヒィ",
+    "reading": "ひぃ",
+    "english": "Hey"
+  },
+  {
+    "id": "163-295",
+    "japanese": "ピエ",
+    "reading": "ぴえ",
+    "english": "Pier"
+  },
+  {
+    "id": "163-296",
+    "japanese": "ピエール",
+    "reading": "ぴえーる",
+    "english": "Pierre"
+  },
+  {
+    "id": "163-297",
+    "japanese": "ピストル",
+    "reading": "ぴすとる",
+    "english": "pistol"
+  },
+  {
+    "id": "163-298",
+    "japanese": "ピース",
+    "reading": "ぴーす",
+    "english": "piece"
+  },
+  {
+    "id": "163-299",
+    "japanese": "フゥ",
+    "reading": "ふぅ",
+    "english": "Woo"
+  },
+  {
+    "id": "163-300",
+    "japanese": "フエ",
+    "reading": "ふえ",
+    "english": "Hue"
+  },
+  {
+    "id": "163-301",
+    "japanese": "フォール",
+    "reading": "ふぉーる",
+    "english": "Fall"
+  },
+  {
+    "id": "163-302",
+    "japanese": "フザ",
+    "reading": "ふざ",
+    "english": "Fuza"
+  },
+  {
+    "id": "163-303",
+    "japanese": "ブラ",
+    "reading": "ぶら",
+    "english": "Bra"
+  },
+  {
+    "id": "163-304",
+    "japanese": "ベロベロバ",
+    "reading": "べろべろば",
+    "english": "Belovelova"
+  },
+  {
+    "id": "163-305",
+    "japanese": "ペース",
+    "reading": "ぺーす",
+    "english": "pace"
+  },
+  {
+    "id": "163-306",
+    "japanese": "ホント",
+    "reading": "ほんと",
+    "english": "Really"
+  },
+  {
+    "id": "163-307",
+    "japanese": "マン",
+    "reading": "まん",
+    "english": "Man"
+  },
+  {
+    "id": "163-308",
+    "japanese": "マントラ",
+    "reading": "まんとら",
+    "english": "Mantra"
+  },
+  {
+    "id": "163-309",
+    "japanese": "ミニョネット",
+    "reading": "みにょねっと",
+    "english": "Mignonette"
+  },
+  {
+    "id": "163-310",
+    "japanese": "ヤツ",
+    "reading": "やつ",
+    "english": "Hey"
+  },
+  {
+    "id": "163-311",
+    "japanese": "ヤベッ",
+    "reading": "やべっ",
+    "english": "Wow"
+  },
+  {
+    "id": "163-312",
+    "japanese": "ヤード",
+    "reading": "やーど",
+    "english": "Yard"
+  },
+  {
+    "id": "163-313",
+    "japanese": "ラキ",
+    "reading": "らき",
+    "english": "Raki"
+  },
+  {
+    "id": "163-314",
+    "japanese": "ラゴ",
+    "reading": "らご",
+    "english": "Lago"
+  },
+  {
+    "id": "163-315",
+    "japanese": "ルフィ",
+    "reading": "るふぃ",
+    "english": "Luffy"
+  },
+  {
+    "id": "163-316",
+    "japanese": "ルート",
+    "reading": "るーと",
+    "english": "root"
+  },
+  {
+    "id": "163-317",
+    "japanese": "レディー",
+    "reading": "れでぃー",
+    "english": "Lady"
+  },
+  {
+    "id": "163-318",
+    "japanese": "ロジャー",
+    "reading": "ろじゃー",
+    "english": "Roger"
+  },
+  {
+    "id": "163-319",
+    "japanese": "ロビン",
+    "reading": "ろびん",
+    "english": "Robin"
+  },
+  {
+    "id": "163-320",
+    "japanese": "ワイパー",
+    "reading": "わいぱー",
+    "english": "Wiper"
+  },
+  {
+    "id": "163-321",
+    "japanese": "ワン",
+    "reading": "わん",
+    "english": "one"
+  },
+  {
+    "id": "163-322",
+    "japanese": "ヴァース",
+    "reading": "ゔぁーす",
+    "english": "Verse"
+  },
+  {
+    "id": "163-323",
+    "japanese": "一方",
+    "reading": "いっぽう",
+    "english": "on the other hand"
+  },
+  {
+    "id": "163-324",
+    "japanese": "一瞬",
+    "reading": "いっしゅん",
+    "english": "for a moment"
+  },
+  {
+    "id": "163-325",
+    "japanese": "上",
+    "reading": "うえ",
+    "english": "above"
+  },
+  {
+    "id": "163-326",
+    "japanese": "下",
+    "reading": "した",
+    "english": "under"
+  },
+  {
+    "id": "163-327",
+    "japanese": "下敷き",
+    "reading": "したじき",
+    "english": "Underlay"
+  },
+  {
+    "id": "163-328",
+    "japanese": "不",
+    "reading": "ふ",
+    "english": "Not"
+  },
+  {
+    "id": "163-329",
+    "japanese": "不思議",
+    "reading": "ふしぎ",
+    "english": "wonder"
+  },
+  {
+    "id": "163-330",
+    "japanese": "世界",
+    "reading": "せかい",
+    "english": "world"
+  },
+  {
+    "id": "163-331",
+    "japanese": "中身",
+    "reading": "なかみ",
+    "english": "contents"
+  },
+  {
+    "id": "163-332",
+    "japanese": "丸く",
+    "reading": "まるく",
+    "english": "Round"
+  },
+  {
+    "id": "163-333",
+    "japanese": "主人",
+    "reading": "しゅじん",
+    "english": "master"
+  },
+  {
+    "id": "163-334",
+    "japanese": "乱す",
+    "reading": "みだす",
+    "english": "Disturbed"
+  },
+  {
+    "id": "163-335",
+    "japanese": "予測",
+    "reading": "よそく",
+    "english": "prediction"
+  },
+  {
+    "id": "163-336",
+    "japanese": "井戸",
+    "reading": "いど",
+    "english": "well"
+  },
+  {
+    "id": "163-337",
+    "japanese": "交渉",
+    "reading": "こうしょう",
+    "english": "negotiation"
+  },
+  {
+    "id": "163-338",
+    "japanese": "人",
+    "reading": "にん",
+    "english": "people"
+  },
+  {
+    "id": "163-339",
+    "japanese": "今",
+    "reading": "いま",
+    "english": "now"
+  },
+  {
+    "id": "163-340",
+    "japanese": "今日",
+    "reading": "きょう",
+    "english": "today"
+  },
+  {
+    "id": "163-341",
+    "japanese": "仕える",
+    "reading": "つかえ",
+    "english": "serve"
+  },
+  {
+    "id": "163-342",
+    "japanese": "仕上げ",
+    "reading": "しあげ",
+    "english": "Finishing"
+  },
+  {
+    "id": "163-343",
+    "japanese": "以上",
+    "reading": "いじょう",
+    "english": "That's all"
+  },
+  {
+    "id": "163-344",
+    "japanese": "以外",
+    "reading": "いがい",
+    "english": "other than"
+  },
+  {
+    "id": "163-345",
+    "japanese": "仰天",
+    "reading": "ぎょうてん",
+    "english": "Surprising"
+  },
+  {
+    "id": "163-346",
+    "japanese": "仲間",
+    "reading": "なかま",
+    "english": "fellow"
+  },
+  {
+    "id": "163-347",
+    "japanese": "任せ",
+    "reading": "まかせ",
+    "english": "leave to"
+  },
+  {
+    "id": "163-348",
+    "japanese": "会う",
+    "reading": "あう",
+    "english": "meet"
+  },
+  {
+    "id": "163-349",
+    "japanese": "住む",
+    "reading": "すむ",
+    "english": "live"
+  },
+  {
+    "id": "163-350",
+    "japanese": "体",
+    "reading": "からだ",
+    "english": "body"
+  },
+  {
+    "id": "163-351",
+    "japanese": "何",
+    "reading": "なに",
+    "english": "what"
+  },
+  {
+    "id": "163-352",
+    "japanese": "作る",
+    "reading": "つくる",
+    "english": "make"
+  },
+  {
+    "id": "163-353",
+    "japanese": "例えば",
+    "reading": "たとえば",
+    "english": "for example"
+  },
+  {
+    "id": "163-354",
+    "japanese": "信じ",
+    "reading": "しんじ",
+    "english": "Believe"
+  },
+  {
+    "id": "163-355",
+    "japanese": "信念",
+    "reading": "しんねん",
+    "english": "belief"
+  },
+  {
+    "id": "163-356",
+    "japanese": "修行",
+    "reading": "しゅぎょう",
+    "english": "Training"
+  },
+  {
+    "id": "163-357",
+    "japanese": "俺",
+    "reading": "おれ",
+    "english": "I"
+  },
+  {
+    "id": "163-358",
+    "japanese": "値",
+    "reading": "あたい",
+    "english": "value"
+  },
+  {
+    "id": "163-359",
+    "japanese": "傷つけ",
+    "reading": "きずつ",
+    "english": "To hurt"
+  },
+  {
+    "id": "163-360",
+    "japanese": "傷つける",
+    "reading": "きずつ",
+    "english": "hurt"
+  },
+  {
+    "id": "163-361",
+    "japanese": "先代",
+    "reading": "せんだい",
+    "english": "The previous"
+  },
+  {
+    "id": "163-362",
+    "japanese": "入っ",
+    "reading": "いっっ",
+    "english": "Come in"
+  },
+  {
+    "id": "163-363",
+    "japanese": "入り",
+    "reading": "いり",
+    "english": "Enter"
+  },
+  {
+    "id": "163-364",
+    "japanese": "入る",
+    "reading": "いる",
+    "english": "enter"
+  },
+  {
+    "id": "163-365",
+    "japanese": "全て",
+    "reading": "すべて",
+    "english": "all"
+  },
+  {
+    "id": "163-366",
+    "japanese": "全能",
+    "reading": "ぜんのう",
+    "english": "Almighty"
+  },
+  {
+    "id": "163-367",
+    "japanese": "共通",
+    "reading": "きょうつう",
+    "english": "common"
+  },
+  {
+    "id": "163-368",
+    "japanese": "再び",
+    "reading": "ふたたび",
+    "english": "again"
+  },
+  {
+    "id": "163-369",
+    "japanese": "出",
+    "reading": "しゅつ",
+    "english": "Out"
+  },
+  {
+    "id": "163-370",
+    "japanese": "出す",
+    "reading": "だす",
+    "english": "put out"
+  },
+  {
+    "id": "163-371",
+    "japanese": "出る",
+    "reading": "でる",
+    "english": "Go out"
+  },
+  {
+    "id": "163-372",
+    "japanese": "出口",
+    "reading": "でぐち",
+    "english": "Exit"
+  },
+  {
+    "id": "163-373",
+    "japanese": "出来",
+    "reading": "でき",
+    "english": "Can be done"
+  },
+  {
+    "id": "163-374",
+    "japanese": "刃物",
+    "reading": "はもの",
+    "english": "Blade"
+  },
+  {
+    "id": "163-375",
+    "japanese": "分かっ",
+    "reading": "わか",
+    "english": "I know"
+  },
+  {
+    "id": "163-376",
+    "japanese": "分かん",
+    "reading": "わか",
+    "english": "I don't know"
+  },
+  {
+    "id": "163-377",
+    "japanese": "切る",
+    "reading": "きる",
+    "english": "Cut it"
+  },
+  {
+    "id": "163-378",
+    "japanese": "初めて",
+    "reading": "はじめて",
+    "english": "first time"
+  },
+  {
+    "id": "163-379",
+    "japanese": "別",
+    "reading": "べつ",
+    "english": "another"
+  },
+  {
+    "id": "163-380",
+    "japanese": "刺し",
+    "reading": "さし",
+    "english": "Stick"
+  },
+  {
+    "id": "163-381",
+    "japanese": "刺し違え",
+    "reading": "さしちがえ",
+    "english": "Stung wrong"
+  },
+  {
+    "id": "163-382",
+    "japanese": "前",
+    "reading": "まえ",
+    "english": "before"
+  },
+  {
+    "id": "163-383",
+    "japanese": "力",
+    "reading": "ちから",
+    "english": "force"
+  },
+  {
+    "id": "163-384",
+    "japanese": "助け",
+    "reading": "たすけ",
+    "english": "Help"
+  },
+  {
+    "id": "163-385",
+    "japanese": "助ける",
+    "reading": "たすけ",
+    "english": "help"
+  },
+  {
+    "id": "163-386",
+    "japanese": "努力",
+    "reading": "どりょく",
+    "english": "effort"
+  },
+  {
+    "id": "163-387",
+    "japanese": "動い",
+    "reading": "うごい",
+    "english": "Move"
+  },
+  {
+    "id": "163-388",
+    "japanese": "動か",
+    "reading": "うごか",
+    "english": "Movement"
+  },
+  {
+    "id": "163-389",
+    "japanese": "動き",
+    "reading": "うごき",
+    "english": "Movement"
+  },
+  {
+    "id": "163-390",
+    "japanese": "勘違い",
+    "reading": "かんちがい",
+    "english": "misunderstanding"
+  },
+  {
+    "id": "163-391",
+    "japanese": "勝つ",
+    "reading": "かつ",
+    "english": "win"
+  },
+  {
+    "id": "163-392",
+    "japanese": "勝て",
+    "reading": "かて",
+    "english": "Win"
+  },
+  {
+    "id": "163-393",
+    "japanese": "勝手",
+    "reading": "かって",
+    "english": "selfishness"
+  },
+  {
+    "id": "163-394",
+    "japanese": "卑怯",
+    "reading": "ひきょう",
+    "english": "Cowardly"
+  },
+  {
+    "id": "163-395",
+    "japanese": "危なかっ",
+    "reading": "あぶなか",
+    "english": "It's dangerous"
+  },
+  {
+    "id": "163-396",
+    "japanese": "反逆",
+    "reading": "はんぎゃく",
+    "english": "Rebellion"
+  },
+  {
+    "id": "163-397",
+    "japanese": "取って置き",
+    "reading": "とっ",
+    "english": "Take it away"
+  },
+  {
+    "id": "163-398",
+    "japanese": "取れ",
+    "reading": "とれ",
+    "english": "Take it"
+  },
+  {
+    "id": "163-399",
+    "japanese": "受けよう",
+    "reading": "うけ",
+    "english": "Let's take it"
+  },
+  {
+    "id": "163-400",
+    "japanese": "口",
+    "reading": "くち",
+    "english": "mouth"
+  },
+  {
+    "id": "163-401",
+    "japanese": "叫び声",
+    "reading": "さけび",
+    "english": "Scream"
+  },
+  {
+    "id": "163-402",
+    "japanese": "同じ",
+    "reading": "おなじ",
+    "english": "same"
+  },
+  {
+    "id": "163-403",
+    "japanese": "君臨",
+    "reading": "くんりん",
+    "english": "Reign"
+  },
+  {
+    "id": "163-404",
+    "japanese": "吹っ飛ぶ",
+    "reading": "ふっとぶ",
+    "english": "Blow it away"
+  },
+  {
+    "id": "163-405",
+    "japanese": "周り",
+    "reading": "まわり",
+    "english": "Around"
+  },
+  {
+    "id": "163-406",
+    "japanese": "味わう",
+    "reading": "あじわ",
+    "english": "taste"
+  },
+  {
+    "id": "163-407",
+    "japanese": "味方",
+    "reading": "みかた",
+    "english": "Allies"
+  },
+  {
+    "id": "163-408",
+    "japanese": "呼ば",
+    "reading": "よば",
+    "english": "Call me"
+  },
+  {
+    "id": "163-409",
+    "japanese": "呼び",
+    "reading": "よび",
+    "english": "Call"
+  },
+  {
+    "id": "163-410",
+    "japanese": "命",
+    "reading": "いのち",
+    "english": "life"
+  },
+  {
+    "id": "163-411",
+    "japanese": "困っ",
+    "reading": "こまっ",
+    "english": "Confused"
+  },
+  {
+    "id": "163-412",
+    "japanese": "国",
+    "reading": "くに",
+    "english": "country"
+  },
+  {
+    "id": "163-413",
+    "japanese": "変えよう",
+    "reading": "かえ",
+    "english": "Let's change"
+  },
+  {
+    "id": "163-414",
+    "japanese": "変わら",
+    "reading": "かわ",
+    "english": "Change"
+  },
+  {
+    "id": "163-415",
+    "japanese": "変わり",
+    "reading": "かわり",
+    "english": "change"
+  },
+  {
+    "id": "163-416",
+    "japanese": "変態",
+    "reading": "へんたい",
+    "english": "transformation"
+  },
+  {
+    "id": "163-417",
+    "japanese": "夢",
+    "reading": "ゆめ",
+    "english": "dream"
+  },
+  {
+    "id": "163-418",
+    "japanese": "大",
+    "reading": "だい",
+    "english": "large"
+  },
+  {
+    "id": "163-419",
+    "japanese": "大きな",
+    "reading": "おおき",
+    "english": "Big"
+  },
+  {
+    "id": "163-420",
+    "japanese": "大切",
+    "reading": "たいせつ",
+    "english": "important"
+  },
+  {
+    "id": "163-421",
+    "japanese": "天",
+    "reading": "てん",
+    "english": "Heaven"
+  },
+  {
+    "id": "163-422",
+    "japanese": "天使",
+    "reading": "てんし",
+    "english": "angel"
+  },
+  {
+    "id": "163-423",
+    "japanese": "奪わ",
+    "reading": "うばわ",
+    "english": "I'll take it"
+  },
+  {
+    "id": "163-424",
+    "japanese": "女",
+    "reading": "おんな",
+    "english": "woman"
+  },
+  {
+    "id": "163-425",
+    "japanese": "威力",
+    "reading": "いりょく",
+    "english": "power"
+  },
+  {
+    "id": "163-426",
+    "japanese": "娘",
+    "reading": "むすめ",
+    "english": "daughter"
+  },
+  {
+    "id": "163-427",
+    "japanese": "嫌",
+    "reading": "いや",
+    "english": "I don't like it"
+  },
+  {
+    "id": "163-428",
+    "japanese": "安らげ",
+    "reading": "やすら",
+    "english": "Relax"
+  },
+  {
+    "id": "163-429",
+    "japanese": "完全",
+    "reading": "かんぜん",
+    "english": "Complete"
+  },
+  {
+    "id": "163-430",
+    "japanese": "実",
+    "reading": "み",
+    "english": "fruit"
+  },
+  {
+    "id": "163-431",
+    "japanese": "宣戦",
+    "reading": "せんせん",
+    "english": "Proclaimed war"
+  },
+  {
+    "id": "163-432",
+    "japanese": "対峙",
+    "reading": "たいじ",
+    "english": "Confrontation"
+  },
+  {
+    "id": "163-433",
+    "japanese": "導き手",
+    "reading": "みちびき",
+    "english": "Guidance"
+  },
+  {
+    "id": "163-434",
+    "japanese": "少々",
+    "reading": "しょうしょう",
+    "english": "A little"
+  },
+  {
+    "id": "163-435",
+    "japanese": "尽き",
+    "reading": "ことごとき",
+    "english": "Exhausted"
+  },
+  {
+    "id": "163-436",
+    "japanese": "島",
+    "reading": "しま",
+    "english": "island"
+  },
+  {
+    "id": "163-437",
+    "japanese": "川",
+    "reading": "かわ",
+    "english": "river"
+  },
+  {
+    "id": "163-438",
+    "japanese": "巨体",
+    "reading": "きょたい",
+    "english": "Huge body"
+  },
+  {
+    "id": "163-439",
+    "japanese": "差し出せ",
+    "reading": "さし",
+    "english": "Give it"
+  },
+  {
+    "id": "163-440",
+    "japanese": "己",
+    "reading": "おのれ",
+    "english": "Self"
+  },
+  {
+    "id": "163-441",
+    "japanese": "布告",
+    "reading": "ふこく",
+    "english": "Proclamation"
+  },
+  {
+    "id": "163-442",
+    "japanese": "希望",
+    "reading": "きぼう",
+    "english": "Hope"
+  },
+  {
+    "id": "163-443",
+    "japanese": "帰っ",
+    "reading": "かえっ",
+    "english": "Go home"
+  },
+  {
+    "id": "163-444",
+    "japanese": "年",
+    "reading": "ねん",
+    "english": "year"
+  },
+  {
+    "id": "163-445",
+    "japanese": "広々",
+    "reading": "ひろびろ",
+    "english": "spacious"
+  },
+  {
+    "id": "163-446",
+    "japanese": "底",
+    "reading": "そこ",
+    "english": "bottom"
+  },
+  {
+    "id": "163-447",
+    "japanese": "底なし",
+    "reading": "そこなし",
+    "english": "Bottomless"
+  },
+  {
+    "id": "163-448",
+    "japanese": "度",
+    "reading": "ど",
+    "english": "Degree"
+  },
+  {
+    "id": "163-449",
+    "japanese": "座",
+    "reading": "ざ",
+    "english": "seat"
+  },
+  {
+    "id": "163-450",
+    "japanese": "引き起こす",
+    "reading": "ひきおこ",
+    "english": "cause"
+  },
+  {
+    "id": "163-451",
+    "japanese": "引く",
+    "reading": "ひく",
+    "english": "Pull"
+  },
+  {
+    "id": "163-452",
+    "japanese": "弱",
+    "reading": "じゃく",
+    "english": "weak"
+  },
+  {
+    "id": "163-453",
+    "japanese": "弱い",
+    "reading": "よわい",
+    "english": "weak"
+  },
+  {
+    "id": "163-454",
+    "japanese": "強く",
+    "reading": "つよく",
+    "english": "Strong"
+  },
+  {
+    "id": "163-455",
+    "japanese": "形",
+    "reading": "かたち",
+    "english": "shape"
+  },
+  {
+    "id": "163-456",
+    "japanese": "彼",
+    "reading": "かれ",
+    "english": "he"
+  },
+  {
+    "id": "163-457",
+    "japanese": "待た",
+    "reading": "また",
+    "english": "I've waited"
+  },
+  {
+    "id": "163-458",
+    "japanese": "待ち受け",
+    "reading": "まち",
+    "english": "Waiting"
+  },
+  {
+    "id": "163-459",
+    "japanese": "待っ",
+    "reading": "まっ",
+    "english": "Wait"
+  },
+  {
+    "id": "163-460",
+    "japanese": "待て",
+    "reading": "まて",
+    "english": "Wait"
+  },
+  {
+    "id": "163-461",
+    "japanese": "後",
+    "reading": "のち",
+    "english": "rear"
+  },
+  {
+    "id": "163-462",
+    "japanese": "得",
+    "reading": "え",
+    "english": "Benefits"
+  },
+  {
+    "id": "163-463",
+    "japanese": "心臓",
+    "reading": "しんぞう",
+    "english": "heart"
+  },
+  {
+    "id": "163-464",
+    "japanese": "心配",
+    "reading": "しんぱい",
+    "english": "anxiety"
+  },
+  {
+    "id": "163-465",
+    "japanese": "怒ら",
+    "reading": "いから",
+    "english": "Angry"
+  },
+  {
+    "id": "163-466",
+    "japanese": "怒り",
+    "reading": "いかり",
+    "english": "anger"
+  },
+  {
+    "id": "163-467",
+    "japanese": "怖い",
+    "reading": "こわい",
+    "english": "scared"
+  },
+  {
+    "id": "163-468",
+    "japanese": "思い知れ",
+    "reading": "おもいしれ",
+    "english": "Think about it"
+  },
+  {
+    "id": "163-469",
+    "japanese": "思う",
+    "reading": "おもう",
+    "english": "think"
+  },
+  {
+    "id": "163-470",
+    "japanese": "思え",
+    "reading": "おもえ",
+    "english": "Think about it"
+  },
+  {
+    "id": "163-471",
+    "japanese": "思っ",
+    "reading": "おもっ",
+    "english": "I think"
+  },
+  {
+    "id": "163-472",
+    "japanese": "急ごう",
+    "reading": "いそご",
+    "english": "Let's hurry"
+  },
+  {
+    "id": "163-473",
+    "japanese": "恋",
+    "reading": "こい",
+    "english": "love"
+  },
+  {
+    "id": "163-474",
+    "japanese": "息",
+    "reading": "いき",
+    "english": "breath"
+  },
+  {
+    "id": "163-475",
+    "japanese": "息遣い",
+    "reading": "いきづかい",
+    "english": "Breathing"
+  },
+  {
+    "id": "163-476",
+    "japanese": "意味",
+    "reading": "いみ",
+    "english": "meaning"
+  },
+  {
+    "id": "163-477",
+    "japanese": "愚か者",
+    "reading": "おろかもの",
+    "english": "Fool"
+  },
+  {
+    "id": "163-478",
+    "japanese": "愛",
+    "reading": "あい",
+    "english": "love"
+  },
+  {
+    "id": "163-479",
+    "japanese": "感心",
+    "reading": "かんしん",
+    "english": "Impression"
+  },
+  {
+    "id": "163-480",
+    "japanese": "成長",
+    "reading": "せいちょう",
+    "english": "growth"
+  },
+  {
+    "id": "163-481",
+    "japanese": "我",
+    "reading": "われ",
+    "english": "Me"
+  },
+  {
+    "id": "163-482",
+    "japanese": "戦い",
+    "reading": "たたかい",
+    "english": "fight"
+  },
+  {
+    "id": "163-483",
+    "japanese": "戦う",
+    "reading": "たたかう",
+    "english": "fight"
+  },
+  {
+    "id": "163-484",
+    "japanese": "戦わ",
+    "reading": "たたかわ",
+    "english": "Fight"
+  },
+  {
+    "id": "163-485",
+    "japanese": "戦士",
+    "reading": "せんし",
+    "english": "Warrior"
+  },
+  {
+    "id": "163-486",
+    "japanese": "所",
+    "reading": "ところ",
+    "english": "Where"
+  },
+  {
+    "id": "163-487",
+    "japanese": "所詮",
+    "reading": "しょせん",
+    "english": "after all"
+  },
+  {
+    "id": "163-488",
+    "japanese": "手",
+    "reading": "て",
+    "english": "hand"
+  },
+  {
+    "id": "163-489",
+    "japanese": "打つ",
+    "reading": "うつ",
+    "english": "strike"
+  },
+  {
+    "id": "163-490",
+    "japanese": "押さえりゃ",
+    "reading": "おさ",
+    "english": "I'll hold it down"
+  },
+  {
+    "id": "163-491",
+    "japanese": "持つ",
+    "reading": "もつ",
+    "english": "Have"
+  },
+  {
+    "id": "163-492",
+    "japanese": "指",
+    "reading": "ゆび",
+    "english": "finger"
+  },
+  {
+    "id": "163-493",
+    "japanese": "排除",
+    "reading": "はいじょ",
+    "english": "Exclusion"
+  },
+  {
+    "id": "163-494",
+    "japanese": "掛かっ",
+    "reading": "かか",
+    "english": "Is it on?"
+  },
+  {
+    "id": "163-495",
+    "japanese": "掛かり",
+    "reading": "かか",
+    "english": "Arrive"
+  },
+  {
+    "id": "163-496",
+    "japanese": "摩訶",
+    "reading": "まか",
+    "english": "Maha"
+  },
+  {
+    "id": "163-497",
+    "japanese": "操れ",
+    "reading": "あやつれ",
+    "english": "Manipulate"
+  },
+  {
+    "id": "163-498",
+    "japanese": "支障",
+    "reading": "ししょう",
+    "english": "hinderance"
+  },
+  {
+    "id": "163-499",
+    "japanese": "攻略",
+    "reading": "こうりゃく",
+    "english": "Strategy"
+  },
+  {
+    "id": "163-500",
+    "japanese": "放せ",
+    "reading": "はなせ",
+    "english": "Let it go"
+  },
+  {
+    "id": "163-501",
+    "japanese": "救っ",
+    "reading": "すくっ",
+    "english": "Save"
+  },
+  {
+    "id": "163-502",
+    "japanese": "敵",
+    "reading": "てき",
+    "english": "enemy"
+  },
+  {
+    "id": "163-503",
+    "japanese": "敵対",
+    "reading": "てきたい",
+    "english": "Enemy"
+  },
+  {
+    "id": "163-504",
+    "japanese": "文明",
+    "reading": "ぶんめい",
+    "english": "civilization"
+  },
+  {
+    "id": "163-505",
+    "japanese": "方",
+    "reading": "ほう",
+    "english": "direction"
+  },
+  {
+    "id": "163-506",
+    "japanese": "旗",
+    "reading": "はた",
+    "english": "flag"
+  },
+  {
+    "id": "163-507",
+    "japanese": "既に",
+    "reading": "すでに",
+    "english": "already"
+  },
+  {
+    "id": "163-508",
+    "japanese": "早く",
+    "reading": "はやく",
+    "english": "quickly"
+  },
+  {
+    "id": "163-509",
+    "japanese": "最後",
+    "reading": "さいご",
+    "english": "last"
+  },
+  {
+    "id": "163-510",
+    "japanese": "最高",
+    "reading": "さいこう",
+    "english": "The best"
+  },
+  {
+    "id": "163-511",
+    "japanese": "木",
+    "reading": "き",
+    "english": "tree"
+  },
+  {
+    "id": "163-512",
+    "japanese": "本",
+    "reading": "ほん",
+    "english": "Books"
+  },
+  {
+    "id": "163-513",
+    "japanese": "本気",
+    "reading": "ほんき",
+    "english": "Seriously"
+  },
+  {
+    "id": "163-514",
+    "japanese": "来",
+    "reading": "らい",
+    "english": "Come"
+  },
+  {
+    "id": "163-515",
+    "japanese": "来い",
+    "reading": "こい",
+    "english": "come"
+  },
+  {
+    "id": "163-516",
+    "japanese": "来す",
+    "reading": "きす",
+    "english": "Come"
+  },
+  {
+    "id": "163-517",
+    "japanese": "森",
+    "reading": "もり",
+    "english": "forest"
+  },
+  {
+    "id": "163-518",
+    "japanese": "楽しみ",
+    "reading": "たのしみ",
+    "english": "fun"
+  },
+  {
+    "id": "163-519",
+    "japanese": "様",
+    "reading": "さま",
+    "english": "Mr."
+  },
+  {
+    "id": "163-520",
+    "japanese": "横たわっ",
+    "reading": "よこ",
+    "english": "Lie down"
+  },
+  {
+    "id": "163-521",
+    "japanese": "機",
+    "reading": "き",
+    "english": "Machine"
+  },
+  {
+    "id": "163-522",
+    "japanese": "次",
+    "reading": "つぎ",
+    "english": "Next"
+  },
+  {
+    "id": "163-523",
+    "japanese": "次回",
+    "reading": "じかい",
+    "english": "next time"
+  },
+  {
+    "id": "163-524",
+    "japanese": "歌う",
+    "reading": "うたう",
+    "english": "sing"
+  },
+  {
+    "id": "163-525",
+    "japanese": "正直",
+    "reading": "しょうじき",
+    "english": "Honesty"
+  },
+  {
+    "id": "163-526",
+    "japanese": "歩き回る",
+    "reading": "あるき",
+    "english": "Walking around"
+  },
+  {
+    "id": "163-527",
+    "japanese": "死",
+    "reading": "し",
+    "english": "death"
+  },
+  {
+    "id": "163-528",
+    "japanese": "死に",
+    "reading": "しに",
+    "english": "To death"
+  },
+  {
+    "id": "163-529",
+    "japanese": "死ぬ",
+    "reading": "しぬ",
+    "english": "die"
+  },
+  {
+    "id": "163-530",
+    "japanese": "死ね",
+    "reading": "しね",
+    "english": "Die"
+  },
+  {
+    "id": "163-531",
+    "japanese": "死ん",
+    "reading": "しん",
+    "english": "I'm going to die"
+  },
+  {
+    "id": "163-532",
+    "japanese": "残念",
+    "reading": "ざんねん",
+    "english": "disappointing"
+  },
+  {
+    "id": "163-533",
+    "japanese": "殺そう",
+    "reading": "ころそ",
+    "english": "Let's kill"
+  },
+  {
+    "id": "163-534",
+    "japanese": "気",
+    "reading": "き",
+    "english": "air"
+  },
+  {
+    "id": "163-535",
+    "japanese": "気付か",
+    "reading": "きづか",
+    "english": "Have you noticed?"
+  },
+  {
+    "id": "163-536",
+    "japanese": "求め",
+    "reading": "もとめ",
+    "english": "Search"
+  },
+  {
+    "id": "163-537",
+    "japanese": "求道",
+    "reading": "きゅうどう",
+    "english": "Wanting"
+  },
+  {
+    "id": "163-538",
+    "japanese": "決まっ",
+    "reading": "きま",
+    "english": "Definitely"
+  },
+  {
+    "id": "163-539",
+    "japanese": "治め",
+    "reading": "おさめ",
+    "english": "Regulation"
+  },
+  {
+    "id": "163-540",
+    "japanese": "泣かし",
+    "reading": "なか",
+    "english": "Make me cry"
+  },
+  {
+    "id": "163-541",
+    "japanese": "泳げ",
+    "reading": "およげ",
+    "english": "Swim"
+  },
+  {
+    "id": "163-542",
+    "japanese": "浮き上がる",
+    "reading": "うき",
+    "english": "It floats"
+  },
+  {
+    "id": "163-543",
+    "japanese": "海岸",
+    "reading": "かいがん",
+    "english": "Coast"
+  },
+  {
+    "id": "163-544",
+    "japanese": "海賊",
+    "reading": "かいぞく",
+    "english": "Pirates"
+  },
+  {
+    "id": "163-545",
+    "japanese": "準ずる",
+    "reading": "じゅんず",
+    "english": "Same as"
+  },
+  {
+    "id": "163-546",
+    "japanese": "火炎",
+    "reading": "かえん",
+    "english": "flame"
+  },
+  {
+    "id": "163-547",
+    "japanese": "火薬",
+    "reading": "かやく",
+    "english": "Gunpowder"
+  },
+  {
+    "id": "163-548",
+    "japanese": "灯",
+    "reading": "ともしび",
+    "english": "light"
+  },
+  {
+    "id": "163-549",
+    "japanese": "無事",
+    "reading": "ぶじ",
+    "english": "Safe"
+  },
+  {
+    "id": "163-550",
+    "japanese": "無断",
+    "reading": "むだん",
+    "english": "No permission"
+  },
+  {
+    "id": "163-551",
+    "japanese": "燈",
+    "reading": "とう",
+    "english": "Light"
+  },
+  {
+    "id": "163-552",
+    "japanese": "爆発",
+    "reading": "ばくはつ",
+    "english": "explosion"
+  },
+  {
+    "id": "163-553",
+    "japanese": "物",
+    "reading": "もの",
+    "english": "thing"
+  },
+  {
+    "id": "163-554",
+    "japanese": "犯罪",
+    "reading": "はんざい",
+    "english": "crime"
+  },
+  {
+    "id": "163-555",
+    "japanese": "狩ら",
+    "reading": "から",
+    "english": "Hunting"
+  },
+  {
+    "id": "163-556",
+    "japanese": "独り",
+    "reading": "ひとり",
+    "english": "alone"
+  },
+  {
+    "id": "163-557",
+    "japanese": "玉",
+    "reading": "たま",
+    "english": "ball"
+  },
+  {
+    "id": "163-558",
+    "japanese": "玉鬘",
+    "reading": "たまかずら",
+    "english": "Tamakazu"
+  },
+  {
+    "id": "163-559",
+    "japanese": "王",
+    "reading": "おう",
+    "english": "king"
+  },
+  {
+    "id": "163-560",
+    "japanese": "理由",
+    "reading": "りゆう",
+    "english": "reason"
+  },
+  {
+    "id": "163-561",
+    "japanese": "生き",
+    "reading": "いき",
+    "english": "Live"
+  },
+  {
+    "id": "163-562",
+    "japanese": "生贄",
+    "reading": "いけにえ",
+    "english": "Sacrifice"
+  },
+  {
+    "id": "163-563",
+    "japanese": "男",
+    "reading": "おとこ",
+    "english": "man"
+  },
+  {
+    "id": "163-564",
+    "japanese": "畜生",
+    "reading": "ちくしょう",
+    "english": "damn it"
+  },
+  {
+    "id": "163-565",
+    "japanese": "番",
+    "reading": "ばん",
+    "english": "Number"
+  },
+  {
+    "id": "163-566",
+    "japanese": "痛",
+    "reading": "つう",
+    "english": "Pain"
+  },
+  {
+    "id": "163-567",
+    "japanese": "痛い",
+    "reading": "いたい",
+    "english": "it hurts"
+  },
+  {
+    "id": "163-568",
+    "japanese": "登っ",
+    "reading": "のぼっ",
+    "english": "Climb"
+  },
+  {
+    "id": "163-569",
+    "japanese": "目",
+    "reading": "め",
+    "english": "eye"
+  },
+  {
+    "id": "163-570",
+    "japanese": "直接",
+    "reading": "ちょくせつ",
+    "english": "Direct"
+  },
+  {
+    "id": "163-571",
+    "japanese": "相",
+    "reading": "そう",
+    "english": "phase"
+  },
+  {
+    "id": "163-572",
+    "japanese": "相手",
+    "reading": "あいて",
+    "english": "partner"
+  },
+  {
+    "id": "163-573",
+    "japanese": "知る",
+    "reading": "しる",
+    "english": "know"
+  },
+  {
+    "id": "163-574",
+    "japanese": "砕き",
+    "reading": "くだき",
+    "english": "Crushing"
+  },
+  {
+    "id": "163-575",
+    "japanese": "破れる",
+    "reading": "やぶれ",
+    "english": "tear"
+  },
+  {
+    "id": "163-576",
+    "japanese": "確か",
+    "reading": "たしか",
+    "english": "Certainly"
+  },
+  {
+    "id": "163-577",
+    "japanese": "神",
+    "reading": "かみ",
+    "english": "God"
+  },
+  {
+    "id": "163-578",
+    "japanese": "神官",
+    "reading": "しんかん",
+    "english": "Priest"
+  },
+  {
+    "id": "163-579",
+    "japanese": "祭壇",
+    "reading": "さいだん",
+    "english": "altar"
+  },
+  {
+    "id": "163-580",
+    "japanese": "私",
+    "reading": "わたし",
+    "english": "I"
+  },
+  {
+    "id": "163-581",
+    "japanese": "空",
+    "reading": "そら",
+    "english": "Sky"
+  },
+  {
+    "id": "163-582",
+    "japanese": "立腹",
+    "reading": "りっぷく",
+    "english": "Standing up"
+  },
+  {
+    "id": "163-583",
+    "japanese": "第",
+    "reading": "だい",
+    "english": "1."
+  },
+  {
+    "id": "163-584",
+    "japanese": "筋合い",
+    "reading": "すじあい",
+    "english": "right"
+  },
+  {
+    "id": "163-585",
+    "japanese": "答え",
+    "reading": "こたえ",
+    "english": "answer"
+  },
+  {
+    "id": "163-586",
+    "japanese": "精神",
+    "reading": "せいしん",
+    "english": "spirit"
+  },
+  {
+    "id": "163-587",
+    "japanese": "系",
+    "reading": "けい",
+    "english": "system"
+  },
+  {
+    "id": "163-588",
+    "japanese": "紐",
+    "reading": "ひも",
+    "english": "string"
+  },
+  {
+    "id": "163-589",
+    "japanese": "級",
+    "reading": "きゅう",
+    "english": "Grade"
+  },
+  {
+    "id": "163-590",
+    "japanese": "終わっ",
+    "reading": "おわ",
+    "english": "Finished"
+  },
+  {
+    "id": "163-591",
+    "japanese": "終わら",
+    "reading": "おわ",
+    "english": "It's over"
+  },
+  {
+    "id": "163-592",
+    "japanese": "終わり",
+    "reading": "おわり",
+    "english": "end"
+  },
+  {
+    "id": "163-593",
+    "japanese": "終結",
+    "reading": "しゅうけつ",
+    "english": "End"
+  },
+  {
+    "id": "163-594",
+    "japanese": "結構",
+    "reading": "けっこう",
+    "english": "fine"
+  },
+  {
+    "id": "163-595",
+    "japanese": "絶対",
+    "reading": "ぜったい",
+    "english": "absolute"
+  },
+  {
+    "id": "163-596",
+    "japanese": "罪",
+    "reading": "つみ",
+    "english": "sin"
+  },
+  {
+    "id": "163-597",
+    "japanese": "老いぼれ",
+    "reading": "おい",
+    "english": "Old"
+  },
+  {
+    "id": "163-598",
+    "japanese": "考え",
+    "reading": "かんがえ",
+    "english": "thought"
+  },
+  {
+    "id": "163-599",
+    "japanese": "者",
+    "reading": "もの",
+    "english": "person"
+  },
+  {
+    "id": "163-600",
+    "japanese": "聖地",
+    "reading": "せいち",
+    "english": "Holy Land"
+  },
+  {
+    "id": "163-601",
+    "japanese": "聞い",
+    "reading": "きい",
+    "english": "Listen"
+  },
+  {
+    "id": "163-602",
+    "japanese": "腹立た",
+    "reading": "はらだた",
+    "english": "I'm angry"
+  },
+  {
+    "id": "163-603",
+    "japanese": "腹立たし",
+    "reading": "はらだた",
+    "english": "I'm angry"
+  },
+  {
+    "id": "163-604",
+    "japanese": "腹立たしい",
+    "reading": "はらだたしい",
+    "english": "It's infuriating"
+  },
+  {
+    "id": "163-605",
+    "japanese": "自然",
+    "reading": "しぜん",
+    "english": "Nature"
+  },
+  {
+    "id": "163-606",
+    "japanese": "自由",
+    "reading": "じゆう",
+    "english": "Freedom"
+  },
+  {
+    "id": "163-607",
+    "japanese": "船",
+    "reading": "ふね",
+    "english": "boat"
+  },
+  {
+    "id": "163-608",
+    "japanese": "若い",
+    "reading": "わかい",
+    "english": "young"
+  },
+  {
+    "id": "163-609",
+    "japanese": "荒い",
+    "reading": "あらい",
+    "english": "rough"
+  },
+  {
+    "id": "163-610",
+    "japanese": "荒く",
+    "reading": "あらく",
+    "english": "Rough"
+  },
+  {
+    "id": "163-611",
+    "japanese": "落ち",
+    "reading": "おち",
+    "english": "Fall"
+  },
+  {
+    "id": "163-612",
+    "japanese": "落ちる",
+    "reading": "おちる",
+    "english": "drop down"
+  },
+  {
+    "id": "163-613",
+    "japanese": "落とす",
+    "reading": "おと",
+    "english": "Drop it"
+  },
+  {
+    "id": "163-614",
+    "japanese": "血",
+    "reading": "ち",
+    "english": "blood"
+  },
+  {
+    "id": "163-615",
+    "japanese": "行っ",
+    "reading": "いっ",
+    "english": "Go"
+  },
+  {
+    "id": "163-616",
+    "japanese": "裁か",
+    "reading": "さばか",
+    "english": "Is it a judge?"
+  },
+  {
+    "id": "163-617",
+    "japanese": "裁き",
+    "reading": "さばき",
+    "english": "judgment"
+  },
+  {
+    "id": "163-618",
+    "japanese": "裁く",
+    "reading": "さばく",
+    "english": "judge"
+  },
+  {
+    "id": "163-619",
+    "japanese": "褒美",
+    "reading": "ほうび",
+    "english": "reward"
+  },
+  {
+    "id": "163-620",
+    "japanese": "襲いかかっ",
+    "reading": "おそい",
+    "english": "Attacked"
+  },
+  {
+    "id": "163-621",
+    "japanese": "襲う",
+    "reading": "おそう",
+    "english": "Attack"
+  },
+  {
+    "id": "163-622",
+    "japanese": "見",
+    "reading": "けん",
+    "english": "look"
+  },
+  {
+    "id": "163-623",
+    "japanese": "見え",
+    "reading": "みえ",
+    "english": "See"
+  },
+  {
+    "id": "163-624",
+    "japanese": "覚え",
+    "reading": "おぼえ",
+    "english": "Remember"
+  },
+  {
+    "id": "163-625",
+    "japanese": "覚悟",
+    "reading": "かくご",
+    "english": "Be prepared"
+  },
+  {
+    "id": "163-626",
+    "japanese": "触る",
+    "reading": "ふる",
+    "english": "touch"
+  },
+  {
+    "id": "163-627",
+    "japanese": "触れ",
+    "reading": "ふれ",
+    "english": "Touch"
+  },
+  {
+    "id": "163-628",
+    "japanese": "触ん",
+    "reading": "しょく",
+    "english": "I touch it"
+  },
+  {
+    "id": "163-629",
+    "japanese": "言い",
+    "reading": "いい",
+    "english": "Say"
+  },
+  {
+    "id": "163-630",
+    "japanese": "言う",
+    "reading": "いう",
+    "english": "say"
+  },
+  {
+    "id": "163-631",
+    "japanese": "言っ",
+    "reading": "いっっ",
+    "english": "Say"
+  },
+  {
+    "id": "163-632",
+    "japanese": "試練",
+    "reading": "しれん",
+    "english": "ordeal"
+  },
+  {
+    "id": "163-633",
+    "japanese": "話",
+    "reading": "はなし",
+    "english": "story"
+  },
+  {
+    "id": "163-634",
+    "japanese": "誘拐",
+    "reading": "ゆうかい",
+    "english": "Kidnapping"
+  },
+  {
+    "id": "163-635",
+    "japanese": "読め",
+    "reading": "よめ",
+    "english": "Read"
+  },
+  {
+    "id": "163-636",
+    "japanese": "読める",
+    "reading": "よめ",
+    "english": "Can be read"
+  },
+  {
+    "id": "163-637",
+    "japanese": "誰",
+    "reading": "だれ",
+    "english": "who"
+  },
+  {
+    "id": "163-638",
+    "japanese": "負ける",
+    "reading": "まけ",
+    "english": "lose"
+  },
+  {
+    "id": "163-639",
+    "japanese": "貴",
+    "reading": "たかし",
+    "english": "You"
+  },
+  {
+    "id": "163-640",
+    "japanese": "走っ",
+    "reading": "はしっ",
+    "english": "Run"
+  },
+  {
+    "id": "163-641",
+    "japanese": "走る",
+    "reading": "はしる",
+    "english": "run"
+  },
+  {
+    "id": "163-642",
+    "japanese": "越え",
+    "reading": "こえ",
+    "english": "Over"
+  },
+  {
+    "id": "163-643",
+    "japanese": "足り",
+    "reading": "たり",
+    "english": "Sure"
+  },
+  {
+    "id": "163-644",
+    "japanese": "足音",
+    "reading": "あしおと",
+    "english": "footsteps"
+  },
+  {
+    "id": "163-645",
+    "japanese": "踏み込ん",
+    "reading": "ふみこん",
+    "english": "Step in"
+  },
+  {
+    "id": "163-646",
+    "japanese": "身",
+    "reading": "み",
+    "english": "Body"
+  },
+  {
+    "id": "163-647",
+    "japanese": "迷い",
+    "reading": "まよい",
+    "english": "I'm confused"
+  },
+  {
+    "id": "163-648",
+    "japanese": "追っ",
+    "reading": "おっ",
+    "english": "Chasing"
+  },
+  {
+    "id": "163-649",
+    "japanese": "追わ",
+    "reading": "おわ",
+    "english": "I'll chase"
+  },
+  {
+    "id": "163-650",
+    "japanese": "逃がす",
+    "reading": "にが",
+    "english": "Let it go away"
+  },
+  {
+    "id": "163-651",
+    "japanese": "逃げ",
+    "reading": "にげ",
+    "english": "Run away"
+  },
+  {
+    "id": "163-652",
+    "japanese": "逃げる",
+    "reading": "にげ",
+    "english": "run away"
+  },
+  {
+    "id": "163-653",
+    "japanese": "逃げ道",
+    "reading": "にげみち",
+    "english": "The escape route"
+  },
+  {
+    "id": "163-654",
+    "japanese": "逃す",
+    "reading": "のがす",
+    "english": "I'll miss it"
+  },
+  {
+    "id": "163-655",
+    "japanese": "逃亡",
+    "reading": "とうぼう",
+    "english": "Escape"
+  },
+  {
+    "id": "163-656",
+    "japanese": "連中",
+    "reading": "れんちゅう",
+    "english": "The guys"
+  },
+  {
+    "id": "163-657",
+    "japanese": "過ぎ",
+    "reading": "すぎ",
+    "english": "Too much"
+  },
+  {
+    "id": "163-658",
+    "japanese": "過酷",
+    "reading": "かこく",
+    "english": "Extremely harsh"
+  },
+  {
+    "id": "163-659",
+    "japanese": "道連れ",
+    "reading": "みちづれ",
+    "english": "Along with you"
+  },
+  {
+    "id": "163-660",
+    "japanese": "遠い",
+    "reading": "とおい",
+    "english": "far"
+  },
+  {
+    "id": "163-661",
+    "japanese": "選ぶ",
+    "reading": "えらぶ",
+    "english": "choose"
+  },
+  {
+    "id": "163-662",
+    "japanese": "邪魔",
+    "reading": "じゃま",
+    "english": "obstacle"
+  },
+  {
+    "id": "163-663",
+    "japanese": "配れ",
+    "reading": "くばれ",
+    "english": "Give it"
+  },
+  {
+    "id": "163-664",
+    "japanese": "錯覚",
+    "reading": "さっかく",
+    "english": "Illusion"
+  },
+  {
+    "id": "163-665",
+    "japanese": "長い",
+    "reading": "ながい",
+    "english": "long"
+  },
+  {
+    "id": "163-666",
+    "japanese": "閉じろ",
+    "reading": "とじ",
+    "english": "Close"
+  },
+  {
+    "id": "163-667",
+    "japanese": "閉じ込め",
+    "reading": "とじこめ",
+    "english": "Confine it"
+  },
+  {
+    "id": "163-668",
+    "japanese": "間に合う",
+    "reading": "まにあう",
+    "english": "It's in time"
+  },
+  {
+    "id": "163-669",
+    "japanese": "間違い",
+    "reading": "まちがい",
+    "english": "error"
+  },
+  {
+    "id": "163-670",
+    "japanese": "関係",
+    "reading": "かんけい",
+    "english": "relationship"
+  },
+  {
+    "id": "163-671",
+    "japanese": "限り",
+    "reading": "かぎり",
+    "english": "as long as"
+  },
+  {
+    "id": "163-672",
+    "japanese": "険",
+    "reading": "けん",
+    "english": "The temptation"
+  },
+  {
+    "id": "163-673",
+    "japanese": "隣",
+    "reading": "となり",
+    "english": "next"
+  },
+  {
+    "id": "163-674",
+    "japanese": "雄たけび",
+    "reading": "おす",
+    "english": "Male"
+  },
+  {
+    "id": "163-675",
+    "japanese": "離し",
+    "reading": "はなし",
+    "english": "Let go"
+  },
+  {
+    "id": "163-676",
+    "japanese": "離す",
+    "reading": "はなす",
+    "english": "Let go"
+  },
+  {
+    "id": "163-677",
+    "japanese": "離れろ",
+    "reading": "はなれ",
+    "english": "Get away"
+  },
+  {
+    "id": "163-678",
+    "japanese": "難い",
+    "reading": "がたい",
+    "english": "hard"
+  },
+  {
+    "id": "163-679",
+    "japanese": "雲",
+    "reading": "くも",
+    "english": "cloud"
+  },
+  {
+    "id": "163-680",
+    "japanese": "静か",
+    "reading": "しずか",
+    "english": "quiet"
+  },
+  {
+    "id": "163-681",
+    "japanese": "面白く",
+    "reading": "おもしろく",
+    "english": "Interesting"
+  },
+  {
+    "id": "163-682",
+    "japanese": "音",
+    "reading": "おと",
+    "english": "sound"
+  },
+  {
+    "id": "163-683",
+    "japanese": "風味",
+    "reading": "ふうみ",
+    "english": "Flavor"
+  },
+  {
+    "id": "163-684",
+    "japanese": "飛べ",
+    "reading": "とべ",
+    "english": "Fly"
+  },
+  {
+    "id": "163-685",
+    "japanese": "食わ",
+    "reading": "くわ",
+    "english": "I'll eat"
+  },
+  {
+    "id": "163-686",
+    "japanese": "騎士",
+    "reading": "きし",
+    "english": "Knight"
+  },
+  {
+    "id": "163-687",
+    "japanese": "騒がしく",
+    "reading": "さわがしく",
+    "english": "Noisy"
+  },
+  {
+    "id": "163-688",
+    "japanese": "高",
+    "reading": "たか",
+    "english": "High"
+  },
+  {
+    "id": "163-689",
+    "japanese": "鳥",
+    "reading": "とり",
+    "english": "bird"
+  }
+]

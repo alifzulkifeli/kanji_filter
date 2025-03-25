@@ -64,7 +64,7 @@ return (
         
         <Card
             ref={cardRef}
-            style={getCardStyle()}
+            // style={getCardStyle()}
             className=" shadow-md mb-4"
             onTouchStart={handleTouchStart}
             onTouchMove={handleTouchMove}
