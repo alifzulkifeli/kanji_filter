@@ -47,15 +47,7 @@ export function WordCard({ word, onLearned, onExcluded }) {
   };
 
   const getCardStyle = () => {
-    let transform = `translateX(${offsetX}px)`;
-    let opacity = 1 - (Math.min(Math.abs(offsetX), 200) / 200) * 0.8;
-    let rotate = `rotate(${offsetX * 0.03}deg)`;
-    
-    return {
-      transform: `${transform} ${rotate}`,
-      opacity,
-      transition: swiping ? 'none' : 'transform 0.3s ease, opacity 0.3s ease',
-    };
+ 
   };
 
 return (
@@ -73,13 +65,13 @@ return (
         <Card
             ref={cardRef}
             style={getCardStyle()}
-            className="cursor-grab active:cursor-grabbing shadow-md mb-4"
+            className=" shadow-md mb-4"
             onTouchStart={handleTouchStart}
             onTouchMove={handleTouchMove}
             onTouchEnd={handleSwipeEnd}
-            onMouseDown={handleMouseDown}
+            // onMouseDown={handleMouseDown}
             onMouseMove={handleMouseMove}
-            onMouseUp={handleSwipeEnd}
+            // onMouseUp={handleSwipeEnd}
             onMouseLeave={() => swiping && handleSwipeEnd()}
         >
             <CardContent className="p-2">
