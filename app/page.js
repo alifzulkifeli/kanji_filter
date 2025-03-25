@@ -83,11 +83,14 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-6">Japanese Learning App</h1>
+   
+<div className="flex justify-center">
+      <h1 className="text-3xl font-bold  mb-6">Kanji Filter</h1>
+      </div>
       
-      <div className="mb-6 w-full flex items-end gap-4">
+      <div className="mb-6 w-full flex justify-center  gap-4 text-center">
         <div>
-          <Label htmlFor="wordList">Word List</Label>
+          <Label htmlFor="wordList">Choose Episode</Label>
           <div className="flex  gap-2">
             <Input 
               id="wordList"
@@ -95,7 +98,7 @@ export default function Home() {
 
               value={currentFile} 
               onChange={(e) => setCurrentFile(parseInt(e.target.value) || "")}
-              className="w-24"
+              className="w-40"
             />
             <Button onClick={fetchWords}>Load</Button>
           </div>
@@ -103,15 +106,22 @@ export default function Home() {
         
    
       </div>
-
+     
       <Tabs defaultValue="learning">
+      <div className="flex justify-center">
         <TabsList className="mb-4">
           <TabsTrigger value="learning">Learning ({words.length})</TabsTrigger>
         </TabsList>
+          </div>
         
         <TabsContent value="learning">
           {loading ? (
-            <p className="text-center py-8">Loading words...</p>
+            // create loading spinner
+            <div className="flex justify-center items-center h-full">
+            <div 
+              className="animate-spin rounded-full h-12 w-12 border-t-4 border-b-4 border-blue-500"
+            ></div>
+          </div>
           ) : words.length > 0 ? (
             <WordList words={words} onWordLearned={handleWordLearned} onWordExcluded={handleWordExcluded} />
           ) : (
@@ -122,9 +132,9 @@ export default function Home() {
             </Card>
           )}
         </TabsContent>
+      </Tabs>
         
 
-      </Tabs>
     </div>
   );
 }
