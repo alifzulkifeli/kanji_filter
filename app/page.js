@@ -44,7 +44,7 @@ export default function Home() {
 
   const handleWordLearned = async (word) => {
     // Remove from current words list
-    setWords(words.filter(w => w.id !== word.id));
+    setWords(words.filter(w => w.japanese !== word.japanese));
 
     // Add to known words
     try {
@@ -61,61 +61,59 @@ export default function Home() {
     }
   };
 
-  const changeWordList = (fileNumber) => {
-    setCurrentFile(fileNumber);
-    fetchWords();
-  };
+  const handleWordExcluded = async (word) => {
+    // Remove from current words list
+    setWords(words.filter(w => w.japanese !== word.japanese));
+
+    // Add to excluded words
+    try {
+      await fetch('/api/excluded-words', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(word),
+      });
+    } catch (error) {
+      console.error('Error marking word as excluded:', error);
+    }
+  }
+
+
 
   return (
     <div className="container mx-auto p-4">
       <h1 className="text-3xl font-bold mb-6">Japanese Learning App</h1>
       
-      <div className="mb-6 flex items-end gap-4">
+      <div className="mb-6 w-full flex items-end gap-4">
         <div>
           <Label htmlFor="wordList">Word List</Label>
-          <div className="flex gap-2">
+          <div className="flex  gap-2">
             <Input 
               id="wordList"
               type="number" 
-              min="1" 
-              max="100" 
+
               value={currentFile} 
-              onChange={(e) => setCurrentFile(parseInt(e.target.value) || 1)}
+              onChange={(e) => setCurrentFile(parseInt(e.target.value) || "")}
               className="w-24"
             />
             <Button onClick={fetchWords}>Load</Button>
           </div>
         </div>
         
-        <div className="flex gap-2">
-          <Button 
-            variant="outline" 
-            onClick={() => changeWordList(Math.max(1, currentFile - 1))}
-            disabled={currentFile <= 1}
-          >
-            Previous List
-          </Button>
-          <Button 
-            variant="outline" 
-            onClick={() => changeWordList(Math.min(100, currentFile + 1))}
-            disabled={currentFile >= 100}
-          >
-            Next List
-          </Button>
-        </div>
+   
       </div>
 
       <Tabs defaultValue="learning">
         <TabsList className="mb-4">
           <TabsTrigger value="learning">Learning ({words.length})</TabsTrigger>
-          <TabsTrigger value="known">Known Words ({knownWords.length})</TabsTrigger>
         </TabsList>
         
         <TabsContent value="learning">
           {loading ? (
             <p className="text-center py-8">Loading words...</p>
           ) : words.length > 0 ? (
-            <WordList words={words} onWordLearned={handleWordLearned} />
+            <WordList words={words} onWordLearned={handleWordLearned} onWordExcluded={handleWordExcluded} />
           ) : (
             <Card>
               <CardContent className="pt-6">
@@ -125,28 +123,7 @@ export default function Home() {
           )}
         </TabsContent>
         
-        <TabsContent value="known">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {knownWords.map(word => (
-              <Card key={word.id}>
-                <CardHeader className="pb-2">
-                  <CardTitle>{word.japanese}</CardTitle>
-                  <CardDescription>{word.reading}</CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <p>{word.english}</p>
-                </CardContent>
-              </Card>
-            ))}
-            {knownWords.length === 0 && (
-              <Card className="col-span-full">
-                <CardContent className="pt-6">
-                  <p className="text-center">No known words yet. Start swiping to mark words as known!</p>
-                </CardContent>
-              </Card>
-            )}
-          </div>
-        </TabsContent>
+
       </Tabs>
     </div>
   );
